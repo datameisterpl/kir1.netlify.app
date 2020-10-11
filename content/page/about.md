@@ -9,4 +9,6 @@ link: ""
 # set the html target parameter if you want to change default behavior
 target: "_blank"
 ---
-Some basic level text
+Hi, I am Pawel
+
+I am IT Project Manager and Product Owner focusing on process automation
